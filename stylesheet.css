@@ -1,0 +1,79 @@
+html {
+	overflow-y: scroll;
+}
+
+body {
+	background-image: url('nubg.png');
+}
+
+#byb-logo-area {
+	text-align: center;
+}
+
+.alert {
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+.navigation {
+	padding: 0px 10px 0px 10px;
+}
+
+.content {
+	padding: 0px 10px 0px 10px;
+}
+
+.content h3 {
+	margin-top: 0px;
+}
+
+.content h2 {
+	margin-top: 0px;
+}
+
+.content ol {
+	margin-bottom: 30px;
+	margin-right: 20px;
+}
+
+.content ul {
+	margin-right: 20px;
+}
+
+.list-group {
+	margin-bottom: 0px;
+}
+
+.list-group-item.active {
+	background-color: #1F6AD3;
+	border-color: darkgrey;
+	font-weight: bold;
+}
+
+.list-group-item.search {
+	background-color: #ffae00 !important;
+	border-color: darkgrey;
+	font-weight: bold;
+}
+
+.ByBMark{
+    background-color: #ffae00;
+}
+
+#searchButton:hover{
+    background-color: #7D7D7D;
+    cursor: pointer; cursor: hand;
+}
+
+.exampleBase{
+    max-width: 80%;
+    margin:auto;
+    display:block;
+}
+
+#affixThis{
+        max-width: 273px;
+		top: 20px;
+}
